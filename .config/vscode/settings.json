@@ -78,7 +78,7 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.wordWrap": "on",
   "editor.tabCompletion": "on",
-  "explorer.openEditors.visible": 0,
+  "explorer.openEditors.visible": 1,
   // Files to display
   "files.enableTrash": false,
   "files.exclude": {
